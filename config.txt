@@ -1,0 +1,6 @@
+owner=511361081894109229
+prefix=j
+game=playing|By|Vairos|jPlay
+stayinchannel=true
+songinstatus=false
+token=NTQyMTQ1NDg0NTAxMDI0Nzcw.DzpwUA.O77eLl9f3MxHNkvsuWve0AirX44
